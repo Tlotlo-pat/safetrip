@@ -28,12 +28,7 @@
     - Now start flask with the command `flask run`
 - Open your new Web server!
     - Using a web browser of your choice, navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
-    - You should see this in your brower:
-    ![](https://files.readme.io/eff62eb-Screen_Shot_2021-10-08_at_7.39.19_AM.png)
-    - Type any text into the 'My Text' box and hit Analyze.
-    - A few seconds later, the results of the sentiment analysis will be displayed!
-    ![resultsscreen.png](https://files.readme.io/939d330-Screen_Shot_2021-10-08_at_7.39.42_AM.png)
-    - You're done! Now click [Next Steps](http://127.0.0.1:5000/next) and have some fun!
+  
     
 
 ## Table of contents
