@@ -1,19 +1,10 @@
-# Modzy Flask Template
-
-![Modzy Logo](https://www.modzy.com/wp-content/uploads/2020/06/MODZY-RGB-POS.png)
-
-<div align="center">
-
-![GitHub contributors](https://img.shields.io/github/contributors/modzy/modzy_flask_template)
-![GitHub last commit](https://img.shields.io/github/last-commit/modzy/modzy_flask_template)
-![GitHub Release Date](https://img.shields.io/github/issues-raw/modzy/modzy_flask_template)
-
-</div>
+# Safe Trip
 
 
-## Modzy Flask Quickstart tutorial
 
-This code accompanies this [tutorial](https://docs.modzy.com/docs/modzy-in-a-flask-app-tutorial) for creating a simple web app to run a Modzy hosted model from scratch. In this tutorial we will walk through creating a simple web application with Python and the Flask framework backed by AI/ML Algorithms from Modzy.
+
+
+## Setup
 
 - Download or clone this project from github: [https://github.com/modzy/modzy_flask_template/](https://github.com/modzy/modzy_flask_template/)
 - In your terminal, navigate to the project directory
