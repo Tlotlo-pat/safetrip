@@ -18,7 +18,7 @@ def sentiment():
 			data = sentimentanalysis(form.input_text.data)
 			data['input-text'] = form.input_text.data
 		return render_template('/sentiment.html', form=form, data=data)
-	return render_template('/sentiment.html', title='Sentiment Analysis', form=form, data=None)
+	return render_template('/sentiment.html', title='Porthole Detection', form=form, data=None)
 
 @app.route('/next')
 def index():
