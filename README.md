@@ -8,7 +8,7 @@
 
 ## Setup
 
-- Download or clone this project from github: [https://github.com/modzy/modzy_flask_template/](https://github.com/modzy/modzy_flask_template/)
+- Download or clone this project from github: [https://github.com/Tlotlo-pat/safetrip](https://github.com/Tlotlo-pat/safetrip)
 - In your terminal, navigate to the project directory
 - Install Python
     - If you already have Python installed, you may skip this step.
